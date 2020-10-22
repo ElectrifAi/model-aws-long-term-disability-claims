@@ -12,4 +12,4 @@ Our machine learning models return actual Output Data and are available through 
 
 SKU:  TDCL-PS-GIS-AWS-001
 
-AWS SageMaker:  [TODO - add link e.g. https://aws.amazon.com/marketplace/pp/prodview-xxxxxxx]
+AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-4thsjomtgmxzq
